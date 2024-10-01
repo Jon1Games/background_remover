@@ -15,6 +15,6 @@ python pip -r install requirements.txt
 
 ## Usage
 
-**python -m main.py**
+**python main.py**
 - -i <input_path>  | File where you want to remove the background.
 - -o <output_file> | Final image location.
